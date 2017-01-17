@@ -1,0 +1,15 @@
+data/*
+libs/*
+literature/*
+logs/*
+meetings/*
+paper/*
+working_data/*
+working_data2/*
+*.out
+*.png
+*.ppm
+*.csv
+*.txt
+*/sym/*
+*.m
